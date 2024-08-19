@@ -5,9 +5,6 @@
 </p>
 
 <div dsplay="inline-block">
-
-
-
 </div>
 
 
@@ -43,7 +40,7 @@ Oie! Meu nome é Julia, tenho 19 anos e atualmente sou Jovem Aprendiz de Soluç�
           
 ## Contatos:
 
-📫 Você pode falar comigo pelo [Email](mailto:juliarrsiqueira@gmail.com) ou pelo [Linkedin](https://www.linkedin.com/in/dorival-alves-804558127/) 
+📫 Você pode falar comigo pelo [Email](mailto:juliarrsiqueira@gmail.com) ou pelo [Linkedin](https://www.linkedin.com/in/julia-siqueira-8537a2262/) 
 </br>
 
 
