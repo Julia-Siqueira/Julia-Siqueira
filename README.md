@@ -16,23 +16,34 @@
 
 Oie! Meu nome é Julia, tenho 19 anos e atualmente sou Jovem Aprendiz de Soluções Digitais na Bosch. Desenvolver a parte back-end de projetos é o que mais gosto, mas usar a criatividade no desenvolvimento de protótipos também é uma das minhas atividades favoritas.
 
-- 
+- 💻 Fiz Técnico em Desenvolvimento de Sistemas na ETEC de Hortolândia
+- 📚 Estou cursando Engenharia de Software na USF (Universidade São Francisco)
+- 📚 Também faço Desenvolvimento de Sistemas no SENAI Roberto Mange
+- 🥋 Curiosidade: sou faixa laranja em Karatê
+- 💬 Qualquer dúvida, só chamar!
 
 ### 🖥️ Tecnologias e Ferramentas: 
 
-<code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></code>
-<code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> </code>
-<code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/> </code>
-<code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
-<code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
-<code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
-<code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
-          
+<div>
+<img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/>
+<img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/>
+<img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/>
+<img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/>
+</div>
+
+### 📚 O que estou estudando:
+
+<div>
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" />       
+</div>
           
           
 ## Contatos:
 
-📫 Você pode falar comigo pelo [Email](mailto:dorival.jrr@gmail.com) ou pelo [Linkedin](https://www.linkedin.com/in/dorival-alves-804558127/) 
+📫 Você pode falar comigo pelo [Email](mailto:juliarrsiqueira@gmail.com) ou pelo [Linkedin](https://www.linkedin.com/in/dorival-alves-804558127/) 
 </br>
 
 
@@ -40,17 +51,14 @@ Oie! Meu nome é Julia, tenho 19 anos e atualmente sou Jovem Aprendiz de Soluç�
 
 
 <div>
-<a href="https://github.com/Dorivis">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dorivis&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Dorivis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/Julia-Siqueira">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-Siqueira&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Julia-Siqueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
 </div>
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-avan%C3%A7ado-green)
-![Graduação](https://img.shields.io/badge/Gradua%C3%A7%C3%A3o_Ciencia_da_Computa%C3%A7%C3%A3o-UNICAMP-green)
-![EmpregoAtual](https://img.shields.io/badge/Professor-SENAI-green)
 
 
 
