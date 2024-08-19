@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Julia-Siqueira">
-    <img src="logo.png" height="250" width="250" alt="Unform" />
+    <img src="sol.png" height="250" width="250" alt="Unform" />
   </a>
 </p>
 
