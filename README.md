@@ -57,6 +57,3 @@ Oie! Meu nome é Julia, tenho 19 anos e atualmente sou Jovem Aprendiz de Soluç�
 <br/>
 
 
-
-
-![Snake animation](https://github.com/Dorivis/Dorivis/blob/output/github-contribution-grid-snake.svg)
