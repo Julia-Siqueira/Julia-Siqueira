@@ -1,6 +1,5 @@
 <p align="center">
   <a href="https://github.com/Julia-Siqueira">
-    <img src="./julia-siqueira.png"/>
   </a>
 </p>
 
