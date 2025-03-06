@@ -8,17 +8,17 @@
 
 
 
-## Sobre mim 😊
+## About me 😊
 
-Oie! Meu nome é Julia, tenho 19 anos e atualmente sou Jovem Aprendiz de Soluções Digitais na Bosch. Desenvolver a parte back-end de projetos é o que mais gosto, mas usar a criatividade no desenvolvimento de protótipos também é uma das minhas atividades favoritas.
+Hi! I'm Julia, and I'm currently working as a Digital Solutions Apprentice at Bosch Campinas. Back-end development is what I enjoy the most, but being creative while creating prototypes is also one of my favorite chores.
 
 - 💻 Fiz Técnico em Desenvolvimento de Sistemas na ETEC de Hortolândia
 - 📚 Estou cursando Engenharia de Software na USF (Universidade São Francisco)
 - 📚 Também faço Desenvolvimento de Sistemas no SENAI Roberto Mange
-- 🥋 Curiosidade: sou faixa laranja em Karatê
+- 🥋 Curious fact about me: sou faixa laranja em Karatê
 - 💬 Qualquer dúvida, só chamar!
 
-### 🖥️ Tecnologias e Ferramentas: 
+### 🖥️ Tools: 
 
 <div>
 <img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
@@ -28,7 +28,7 @@ Oie! Meu nome é Julia, tenho 19 anos e atualmente sou Jovem Aprendiz de Soluç�
 <img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/>
 </div>
 
-### 📚 O que estou estudando:
+### 📚 What I'm currently studying:
 
 <div>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
@@ -37,7 +37,7 @@ Oie! Meu nome é Julia, tenho 19 anos e atualmente sou Jovem Aprendiz de Soluç�
 </div>
           
           
-## Contatos:
+## Contacts:
 
 📫 Você pode falar comigo pelo [Email](mailto:juliarrsiqueira@gmail.com) ou pelo [Linkedin](https://www.linkedin.com/in/julia-siqueira-8537a2262/) 
 </br>
