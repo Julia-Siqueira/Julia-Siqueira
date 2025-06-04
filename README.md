@@ -4,7 +4,7 @@
 </p>
 
 <div dsplay="inline-block">
- <img src="./BANNER.png" width="1024" height="auto" />
+ <img src="./BANNER_GIF.gif" width="1024" height="auto" />
 </div>
 
 
